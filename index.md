@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hello! I'm George Cook. I love engineering high quality code. I take great pride in my craft, and produce highly extensible and maintainable applications. I'm extremely good at refactoring apps - I'll get into that below; but if you're a serious organization, and your code is getting stale, or hard to work with, then getting you back on track is one of my specialties, and I'd love to help you!
+Hello! I'm [George Cook](https://www.linkedin.com/in/georgejecook/). I love engineering high quality code. I take great pride in my craft, and produce highly extensible and maintainable applications. I'm extremely good at refactoring apps - I'll get into that below; but if you're a serious organization, and your code is getting stale, or hard to work with, then getting you back on track is one of my specialties, and I'd love to help you!
 
 I'm really enthusiastic about Roku development in general, actually: really! Here's some of the things I've done/do:
 
