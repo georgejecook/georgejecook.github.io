@@ -5,7 +5,7 @@ title: About
 
 Hello! I'm [George Cook](https://www.linkedin.com/in/georgejecook/). I love engineering high quality code. I take great pride in my craft, and produce highly extensible and maintainable applications. I'm extremely good at refactoring apps - I'll get into that below; but if you're a serious organization, and your code is getting stale, or hard to work with, then getting you back on track is one of my specialties, and I'd love to help you!
 
-I'm really enthusiastic about Roku development in general, actually: really! Here's some of the things I've done/do:
+**I'm really enthusiastic about Roku development in general** : really - and I've got the goods to prove it :) ! Here's some of the things I've done/do:
 
  - Wrote a beautiful unit testing framework for brightscript developers, called [rooibos](https://github.com/georgejecook/rooibos) - it's based on Mocha, and it's awesome - I use it all the time to keep my productivity high and deliver quality code
  - Heavily contributed to the [Brightscript langage vscode extension](https://github.com/TwitchBronBron/vscode-brightscript-language/), which is the number 1 ide extension for roku developers
@@ -27,7 +27,7 @@ I've proudly delivered work for companies you know:
 # My Roku experience includes
    - Application architecture
    - Full cycle development
-   - Continuos integration, and professional build processes, leveraging gulp and other build systems, with jenkins/travis, etc
+   - Continuous integration, and professional build processes, leveraging gulp and other build systems, with jenkins/travis, etc
    - TDD development, and supporting patterns
    - Front end work, both general, framework and advanced UI components
    - Performance optimization
