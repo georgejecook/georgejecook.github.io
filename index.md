@@ -51,13 +51,14 @@ I've proudly delivered work for companies you know:
   - AR/VR in Unity3d, for Oculus and Vive - I spent a year making a few VR games, like [The Incredible VR Gameshow](https://www.youtube.com/watch?v=UhM4qL31OuI)
   - iOS, I've done advanced objective c apps, making the worlds first [AR video editor](https://www.youtube.com/watch?v=5uBZa8v_vG8) (I made it way too early; but that's life :/ ), and a whole bunch of other realtime video, video players, imovie clones, amongst others
   - Worked in Banking, pharms, military over a 20 year career
+  - Did almost a year doing full-stack js with a kafka-based micro-architecure, contracting to UnderArmour
   - Was a consultant for Adobe's own consulting group, specializing in Flex
 
 # UX/Business processes/Design/Architecture/
 
  - I've been involved in startups and huge organizations, on products and services
  - I've launched my own products
- - As such I've got a wide array of skills, and solid Software Development Principles and can succesfully interact across a wide range of roles
+ - As such I've got a wide array of skills, and solid Software Development Principles and can successfully interact across a wide range of roles
  - Been working remotely for a decade, so I know how to get things done when not physically present
  - Take pride in training other's in the best Practices and Processes and teaching them how/why to be a Principled software engineer
  - Have a diverse set of software skills and have good level's in a broad range of languages
