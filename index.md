@@ -26,7 +26,6 @@ I've proudly delivered work for companies you know:
    - [Smithsonian Channel](https://www.smithsonianchannel.com/)
    - [Brightcove](https://www.brightcove.com/en/customers/hope-channel)
    - [Applicaster](https://www.applicaster.com/)
-   - [Olypmic Channel](https://blog.roku.com/olympic-channel-on-roku-canada)
    - [Corco for roku](https://channelstore.roku.com/details/560382/corco) 
    - and others...
 
