@@ -8,13 +8,17 @@ Hello! I'm [George Cook](https://www.linkedin.com/in/georgejecook/). I love engi
 **I'm really enthusiastic about Roku development in general** : really - and I've got the goods to prove it :) ! Here's some of the things I've done/do:
 
  - Wrote a beautiful unit testing framework for brightscript developers, called [rooibos](https://github.com/georgejecook/rooibos) - it's based on Mocha, and it's awesome - I use it all the time to keep my productivity high and deliver quality code
- - Heavily contributed to the [Brightscript language vscode extension](https://github.com/TwitchBronBron/vscode-brightscript-language/), which is the number 1 ide extension for roku developers
+ - Heavily contributed to the [Brightscript language vscode extension](https://github.com/rokucommunity/vscode-brightscript-language/), which is the number 1 ide extension for roku developers
+ - Member of the [roku community](https://github.com/rokucommunity/) group of developers, who create open source tools for roku developer
+ - Contributor to [brighterscript](https://github.com/rokucommunity/brighterscript) language
  - Created an MVVM framework [maestro](https://github.com/georgejecook/maestro/blob/master/docs/index.md), which includes the following features:
-  - The first ever implementation of _brighterscript_, a _soon to be released language_, which is like typescript for brightscript
-  - MVVM base clases
-  - iOS style view classes and navigation
-  - xml bindings
-  - Which means I get to work 2-400% faster than other devs out there, and so do you, if you use it as well :)
+   - The first ever implementation of _brighterscript_, a _soon to be released language_, which is like typescript for brightscript
+   - MVVM base clases
+   - iOS style view classes and navigation
+   - xml bindings
+   - iOC implementation
+   - a new, easier to use, more powerful, better performing list component (wip)
+   - Which means I get to work 2-400% faster than other devs out there, and so do you, if you use it as well :)
  - Wrote a logging framework, tailored to brightscript and roku development, called [rLog](https://github.com/georgejecook/rLog)
  - Wrote a lightweight processor, a bit like awk, just for brightscript, named [burp](https://github.com/georgejecook/burp)
  - Started the popular, and awesome [Roku developer slack group](http://tiny.cc/nrdf0y)
@@ -23,9 +27,9 @@ Hello! I'm [George Cook](https://www.linkedin.com/in/georgejecook/). I love engi
 
 I've proudly delivered work for companies you know:
 
+   - [Applicaster](https://www.applicaster.com/)
    - [Smithsonian Channel](https://www.smithsonianchannel.com/)
    - [Brightcove](https://www.brightcove.com/en/customers/hope-channel)
-   - [Applicaster](https://www.applicaster.com/)
    - [Corco for roku](https://channelstore.roku.com/details/560382/corco) 
    - and others...
 
