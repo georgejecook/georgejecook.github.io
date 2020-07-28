@@ -9,7 +9,7 @@ Hello! I'm [George Cook](https://www.linkedin.com/in/georgejecook/). I love engi
 
  - Wrote a beautiful unit testing framework for brightscript developers, called [rooibos](https://github.com/georgejecook/rooibos) - it's based on Mocha, and it's awesome - I use it all the time to keep my productivity high and deliver quality code
  - Heavily contributed to the [Brightscript language vscode extension](https://github.com/rokucommunity/vscode-brightscript-language/), which is the number 1 ide extension for roku developers
- - Member of the [roku community](https://github.com/rokucommunity/) group of developers, who create open source tools for roku developer
+ - Member of the [roku community](https://github.com/rokucommunity/) group of developers, who create open source tools for roku development
  - Contributor to [brighterscript](https://github.com/rokucommunity/brighterscript) language
  - Created an MVVM framework [maestro](https://github.com/georgejecook/maestro/blob/master/docs/index.md), which includes the following features:
    - The first ever implementation of _brighterscript_, a _soon to be released language_, which is like typescript for brightscript
@@ -43,7 +43,11 @@ I've proudly delivered work for companies you know:
    - Integration with Roku and 3rd party authentication, and analytics such as:
      - Google IMA
      - Adobe AdMobile
+     - Adboe TVE
+     - Conviva
+     - Gogle Analytics
      - RokuPay
+     - Bitmovin Player
      - Youbora analytics
      - Cleeng payment processing
      - Other 3rd party solutions
