@@ -11,15 +11,16 @@ Hello! I'm [George Cook](https://www.linkedin.com/in/georgejecook/). I love engi
  - Heavily contributed to the [Brightscript language vscode extension](https://github.com/rokucommunity/vscode-brightscript-language/), which is the number 1 ide extension for roku developers
  - Member of the [roku community](https://github.com/rokucommunity/) group of developers, who create open source tools for roku development
  - Contributor to [brighterscript](https://github.com/rokucommunity/brighterscript) language
- - Created an MVVM framework [maestro](https://github.com/georgejecook/maestro/blob/master/docs/index.md), which includes the following features:
+ - Created an MVVM framework [maestro](https://georgejecook.github.io/maestro-roku/index.html), which includes the following features:
    - The first ever implementation of _brighterscript_, a _soon to be released language_, which is like typescript for brightscript
    - MVVM base clases
    - iOS style view classes and navigation
    - xml bindings
    - iOC implementation
+   - MVC coding patterns
    - a new, easier to use, more powerful, better performing list component (wip)
    - Which means I get to work 2-400% faster than other devs out there, and so do you, if you use it as well :)
- - Wrote a logging framework, tailored to brightscript and roku development, called [rLog](https://github.com/georgejecook/rLog)
+ - Wrote a logging framework, tailored to brightscript and roku development, called [rLog](https://github.com/georgejecook/roku-log)
  - Wrote a lightweight processor, a bit like awk, just for brightscript, named [burp](https://github.com/georgejecook/burp)
  - Started the popular, and awesome [Roku developer slack group](http://tiny.cc/nrdf0y)
 
